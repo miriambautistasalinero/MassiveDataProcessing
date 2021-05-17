@@ -1,0 +1,5 @@
+VGG16 model for bone age prediction using:
+kaggle datasets download -d kmader/rsna-bone-age
+
+Link  to challenge:
+https://www.kaggle.com/kmader/rsna-bone-age
